@@ -1,0 +1,8 @@
+# robots.txt الخاص بصفحة فرع نبض الطهر للحجامة - حي إشبيلية
+User-agent: *
+Allow: /
+Disallow: /*?*utm_
+Disallow: /*?*fbclid=
+Disallow: /*?*gclid=
+
+Sitemap: https://nbdaltuhr.sa/nbdeltuhr-eshbelia/sitemap.xml
